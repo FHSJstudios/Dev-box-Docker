@@ -3,12 +3,9 @@
 
 ### 快速开始,需要执行的命令
 ```bash
-# 全量安装组件（新增）
+# 一键安装
 bash init.sh --all
-# 安装oh-my-zsh及其依赖
-bash init.zsh-initall.sh
-# 安装Dokploy应用
-curl -sSL https://dokploy.com/install.sh | sh
+
 
 ### 基础初始化
 ```bash
